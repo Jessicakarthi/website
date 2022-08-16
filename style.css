@@ -1,0 +1,20 @@
+ body{
+    background-image:img url="background.jpj" ;
+    background-size=100% 100%;
+    background-attachment="fixed"
+ }
+h1{
+    text-align: center;
+    color: red;
+}
+.food{
+    display:flex;
+    flex-direction: row;
+    justify-content:space-around ;
+}
+.footer{
+    display:flex;
+    background-color: blueviolet;
+    justify-content: space-around;
+}
+
